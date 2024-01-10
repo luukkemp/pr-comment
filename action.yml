@@ -1,5 +1,5 @@
-name: PR Comment from File
-author: Alexander Matheson <awmatheson@github.com>
+name: PR Comment from File - updated
+author: Luuk Kemp, original by Alexander Matheson
 description: Leaves a comment on an open PR based on the contents of a file.
 branding:
   icon: 'message-square'  
